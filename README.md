@@ -1,4 +1,7 @@
 # Text-Segmentation-on-a-Probabilistic-Unigram-Model-using-Viterbi-Algorithm
+
+## -Aditya Batheja and Sidharth Thapar
+
 This study aims to extract hidden words from continuous text 
 (obtained by removing spaces from original text) 
 by detecting word boundaries and performing text segmentation. 
